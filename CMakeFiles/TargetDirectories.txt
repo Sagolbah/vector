@@ -1,0 +1,3 @@
+/home/sagolbah/SPbITMO/C++/homeworks/hw5/CMakeFiles/rebuild_cache.dir
+/home/sagolbah/SPbITMO/C++/homeworks/hw5/CMakeFiles/edit_cache.dir
+/home/sagolbah/SPbITMO/C++/homeworks/hw5/CMakeFiles/vector_testing.dir
